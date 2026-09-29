@@ -1,0 +1,1 @@
+{"trained_at": "2026-09-29T02:09:54.821938", "n_samples": 23040, "variables": ["temperature", "humidity", "rainfall", "wind_speed"], "rmse_per_variable": {"temperature": 0.21134642888107416, "humidity": 1.499256303639728, "rainfall": 0.24801519979525122, "wind_speed": 0.7550079956288831}, "days_used": 30, "n_panchayats": 32}
